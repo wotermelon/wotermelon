@@ -12,9 +12,10 @@
 ![React](https://img.shields.io/badge/-React-282c34?logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
 
+![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
 ![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)
 ![Rollup](https://img.shields.io/badge/-Rollup-ef3335?logo=rollup.js&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
+
   
 ## Github Stats
 
